@@ -1,5 +1,5 @@
 # Deep-Learning-Project
- Modified ResNet for CIFAR-10: Achieving 94.74% Accuracy with 2.8M Parameters
+ Modified ResNet for CIFAR-10: Achieving 94.74% training accuracy with 2.8M Parameters
  
  # Modified ResNet for CIFAR-10
 This project implements a **modified ResNet architecture** optimized for the CIFAR-10 dataset, achieving **94.74% test accuracy** with only **2.8 million parameters** (56% of the 5M parameter limit). The model is designed to balance accuracy and computational efficiency, making it suitable for resource-constrained environments.
