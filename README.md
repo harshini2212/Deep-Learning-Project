@@ -26,8 +26,9 @@ This project implements a **modified ResNet architecture** optimized for the CIF
 
 
 ### **Confusion Matrix**
+![confusion_matrix](https://github.com/user-attachments/assets/bef6defa-0d4e-490b-b39f-e0c799dd9c7f)
 
-![training_curves](https://github.com/user-attachments/assets/86245d58-3582-4706-b0d9-b2e053b14488)
+
 
 
 ---
